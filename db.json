@@ -78,8 +78,8 @@
 		"background": "#00FF00"
       },
       {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+        "title": "Minecraft servers",
+        "image": "https://live.staticflickr.com/8521/8669924119_4648a3139c_b.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
@@ -91,8 +91,45 @@
 		"background": "#00FF00"
       },
       {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+        "title": "Mincraft Realms",
+        "image": "https://1.bp.blogspot.com/-DC3vRPOwhzY/WKjeIPUsjMI/AAAAAAAACcw/3xHbzUEMxL8zCXCADYgfqZmNv8l8GPgmwCLcB/s1600/realms_beta2.png",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+	     {
+        "title": "Mincraft Realms",
+        "image": "https://1.bp.blogspot.com/-DC3vRPOwhzY/WKjeIPUsjMI/AAAAAAAACcw/3xHbzUEMxL8zCXCADYgfqZmNv8l8GPgmwCLcB/s1600/realms_beta2.png",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#00FF00"
+      }, {
+        "title": "Mincraft Realms",
+        "image": "https://1.bp.blogspot.com/-DC3vRPOwhzY/WKjeIPUsjMI/AAAAAAAACcw/3xHbzUEMxL8zCXCADYgfqZmNv8l8GPgmwCLcB/s1600/realms_beta2.png",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#00FF00"
+      }, {
+        "title": "Mincraft Realms",
+        "image": "https://1.bp.blogspot.com/-DC3vRPOwhzY/WKjeIPUsjMI/AAAAAAAACcw/3xHbzUEMxL8zCXCADYgfqZmNv8l8GPgmwCLcB/s1600/realms_beta2.png",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
