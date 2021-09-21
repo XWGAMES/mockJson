@@ -2,17 +2,16 @@
   "GuideData": {
     "AdsController": 
       {
-        "NetworkAds": "admob",
+        "NetworkAds": "mopub",
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
-        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
+		"mopubBanner" : "b195f8dd8ded45fe847ad89ed1d016da",
+		"mopubInter" : "24534e1901884e398f1253216226017e",
+		"mopubNative" : "11a17b188668469fb0412708c3d16813",
+
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
         "ImageBannerURL" : "https://www.google.com"
@@ -20,9 +19,9 @@
       },
     "items": [
       {
-        "title": "Mincraft Skins",
+        "title": " \n \n Mincraft Skins",
         "image": "https://raw.githubusercontent.com/XWGAMES/mockJson/main/MincraftSkins.png",
-	"titleSec": "Best Mincraft Skins",
+	"titleSec": " \n \n Best Mincraft Skins",
 	"imageSecOne": "https://raw.githubusercontent.com/XWGAMES/mockJson/main/SuperMario.jpg",
 	"imageSecTwo": "https://raw.githubusercontent.com/XWGAMES/mockJson/main/Hallowen.PNG",
 	"imageSecThree": "https://raw.githubusercontent.com/XWGAMES/mockJson/main/MarvelGardian.png",  
