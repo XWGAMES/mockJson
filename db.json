@@ -114,7 +114,7 @@
 	"textSecFour": "Another skin pack that didn't last long and is exclusively in the Xbox edition. This skin was only available on Mincraft Market Place from 2015 to 2017, being very impressive and available for a few dollars in the store. You can play any character from this well-known sitcom series, which makes fans of the cartoon very happy to have them. Hence, it definitely enters the list of the best Mincraft skins.",
 	"color": "#000000",
         "text_size": "25",
-        "isLink": true,
+        "isLink": false,
 	"link_title": "Best Mincraft skins",
 	"setLink": "",
         "image_link": "",
