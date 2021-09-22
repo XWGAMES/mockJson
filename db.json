@@ -20,7 +20,7 @@
     "items": [
       {
         "title": "Minecraft House",
-	"titleSec": "\n Best Minecraft Houses",
+	"titleSec": "\n \n Best Minecraft Houses",
 	"imageSecOne": "https://raw.githubusercontent.com/XWGAMES/mockJson/main/BestHouse.jpeg",
 	"imageSecTwo": "https://raw.githubusercontent.com/XWGAMES/mockJson/main/HouseBasics.jpg",
 	"imageSecThree": "https://raw.githubusercontent.com/XWGAMES/mockJson/main/UndergroundHouse.jpg",
@@ -37,7 +37,7 @@
 	"color": "#000000",
         "text_size": "25",
         "isLink": true,
-	"link_title": "Best Minecraft House",
+	"link_title": "\n Best Minecraft House",
 	"setLink": "",
         "image_link": "",
         "text": "Setting yourself up with a great Minecraft house is very important, as it provides you with a safe refuge away from any creatures and a place to store all of your hard-earned gear and treasure. \n Plus, you can show off your creative flair by making your home as impressive as you like. \n \n ",
