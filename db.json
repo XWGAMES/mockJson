@@ -8,9 +8,9 @@
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
-		"mopubBanner" : "b195f8dd8ded45fe847ad89ed1d016da",
-		"mopubInter" : "24534e1901884e398f1253216226017e",
-		"mopubNative" : "11a17b188668469fb0412708c3d16813",
+        "mopubBanner" : "b195f8dd8ded45fe847ad89ed1d016da",
+	"mopubInter" : "24534e1901884e398f1253216226017e",
+	"mopubNative" : "11a17b188668469fb0412708c3d16813",
 
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
